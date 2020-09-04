@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Level1-Example1</string>
+    <string name="tvTitle">What kind of animal is this?</string>
+    <string name="imgDescription">Image</string>
+    <string name="answer_field_description">answer field</string>
+    <string name="animal_descrip">Animal</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+    <string name="submit">Submit</string>
+</resources>
